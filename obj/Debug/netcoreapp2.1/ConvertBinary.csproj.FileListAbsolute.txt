@@ -1,0 +1,11 @@
+E:\OneDrive\Workspace\C#\TestCreationScriptSQL\ConvertBinary\bin\Debug\netcoreapp2.1\ConvertBinary.deps.json
+E:\OneDrive\Workspace\C#\TestCreationScriptSQL\ConvertBinary\bin\Debug\netcoreapp2.1\ConvertBinary.runtimeconfig.json
+E:\OneDrive\Workspace\C#\TestCreationScriptSQL\ConvertBinary\bin\Debug\netcoreapp2.1\ConvertBinary.runtimeconfig.dev.json
+E:\OneDrive\Workspace\C#\TestCreationScriptSQL\ConvertBinary\bin\Debug\netcoreapp2.1\ConvertBinary.dll
+E:\OneDrive\Workspace\C#\TestCreationScriptSQL\ConvertBinary\bin\Debug\netcoreapp2.1\ConvertBinary.pdb
+E:\OneDrive\Workspace\C#\TestCreationScriptSQL\ConvertBinary\obj\Debug\netcoreapp2.1\ConvertBinary.csprojAssemblyReference.cache
+E:\OneDrive\Workspace\C#\TestCreationScriptSQL\ConvertBinary\obj\Debug\netcoreapp2.1\ConvertBinary.csproj.CoreCompileInputs.cache
+E:\OneDrive\Workspace\C#\TestCreationScriptSQL\ConvertBinary\obj\Debug\netcoreapp2.1\ConvertBinary.AssemblyInfoInputs.cache
+E:\OneDrive\Workspace\C#\TestCreationScriptSQL\ConvertBinary\obj\Debug\netcoreapp2.1\ConvertBinary.AssemblyInfo.cs
+E:\OneDrive\Workspace\C#\TestCreationScriptSQL\ConvertBinary\obj\Debug\netcoreapp2.1\ConvertBinary.dll
+E:\OneDrive\Workspace\C#\TestCreationScriptSQL\ConvertBinary\obj\Debug\netcoreapp2.1\ConvertBinary.pdb
